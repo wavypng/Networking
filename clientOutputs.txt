@@ -1,0 +1,16 @@
+Enter IP address or hostname to connect (suggessted 147.153.10.87): Connecting to Socket[addr=/147.153.10.87,port=5260,localport=52424]
+220 147.153.10.87
+Enter your email address: Enter the reciever email address: Enter email subject: Enter the email content (Enter '.' on a single line to end the message): 
+> > > 250 147.153.10.87 Hello 147.153.10.69
+RTT = 133ms
+250 2.1.0 Sender OK
+RTT = 1ms
+250 2.1.5 Recipient OK
+RTT = 6ms
+354 Start mail input; end with <CRLF>.<CRLF>
+RTT = 3ms
+250 Message received and to be delivered
+RTT = 173ms
+
+Press enter to continue or type quit to exit.
+> 221 147.153.10.87 closing connection
